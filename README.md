@@ -1,5 +1,5 @@
 # Airtag dumper
-Simple utility to glitch and dump the NRF52832 firmware on an airtag using cheap hardware. Requirements:
+Simple utility to glitch and dump the nRF52832 firmware on an airtag using cheap hardware. Requirements:
  - An airtag
  - A bluepill STM32F103 eval board running https://github.com/pd0wm/airtag-glitcher
  - A `probe-rs` compatible debug adapter such as a J-Link
