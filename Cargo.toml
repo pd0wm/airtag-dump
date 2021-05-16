@@ -1,0 +1,11 @@
+[package]
+name = "airtag-dump"
+version = "0.1.0"
+authors = ["Willem Melching <willem.melching@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serialport = "4.0.1"
+probe-rs = "0.10.1"
